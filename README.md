@@ -1,2 +1,2 @@
-# GIT-QA-2024
+# Calculator-QAFUND
 Demo Repo for exercisez
